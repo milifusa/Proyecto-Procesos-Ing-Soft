@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TypeManagement projectID="DCE.C73542D8-D66C-7CFD-20C4-A6FB102AC353">
+	<Locations nextID="1">
+	<Location locID="T.0" href=".\Arquitectura3capas.etup"/></Locations>
+
+   <Types>
+   <Type id="DCE.7BC8FF7E-79CD-3C17-D442-076C977523AF" location="T.0" name="Unnamed"/></Types>
+
+	<IrresolvableTypes>
+	</IrresolvableTypes>
+
+</TypeManagement>
